@@ -5,5 +5,6 @@ dep_crates=[]
 comp opts=[]
 common =..${~/~}simscript${~/~}comm-crate.7b:file
 crate_dir=..${~/~}crates
+doc_dir=..${~/~}docs
 
 include(common);
